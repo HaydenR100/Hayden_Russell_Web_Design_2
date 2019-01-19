@@ -1877,6 +1877,11 @@ body {
   display: block;
   text-align: center;
 }
+.cid-rfDRGxDAR1 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/jumbotron.jpg");
+}
 .cid-rf56MHmMXy {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1932,6 +1937,14 @@ body {
   .cid-rf56MHmMXy .price-figure {
     font-size: 4.25rem;
   }
+}
+.cid-rfDRSv8CWK {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #dbd4b8, #25aab2);
+}
+.cid-rfDRSv8CWK .btn {
+  margin: 0 0 .5rem 0;
 }
 .cid-rf5b7jKfdZ {
   padding-top: 30px;
