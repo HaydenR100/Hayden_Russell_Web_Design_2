@@ -2989,12 +2989,16 @@ body {
   color: #767676 !important;
 }
 .cid-rgSYre208R {
-  background-image: url("../../../assets/images/02.jpg");
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-color: #5fa6be;
 }
 .cid-rgSYre208R .form-container {
   transition: all .2s;
   border: 1px solid #ffffff;
   padding: 1rem;
+  background: linear-gradient(#12990f, #0f7699);
+  border: none;
 }
 .cid-rgSYre208R .input-group-btn {
   justify-content: center;
